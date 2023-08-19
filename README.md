@@ -1,6 +1,13 @@
 # Arc-Progress-bar
 This is just a basic example of how to create an arc progress bar using Jetpack Compose with Canvas API.  You can customize the progress bar by changing the colors, sizes, and other parameters. You can also add animations to the progress bar to make it more visually appealing.
 
+
+
+
+https://github.com/bhavdipD24/Arc-Progress-bar/assets/10517035/733a0aa8-0bb5-4651-873d-ee3f3a290feb
+
+
+
 <pre><code>
 @Composable
 fun DrawArcAnimation(modifier: Modifier) {
